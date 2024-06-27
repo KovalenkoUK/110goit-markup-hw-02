@@ -1,0 +1,43 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+    background-color: #fff;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+}
+ul{
+    list-style-type: none;
+    margin-left: 0;
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        /* text-align: left; */
+        color: #4D5AE5;
+        
+}
+.logo_web{
+    color:  #2E2F42;
+    
+    
+}
+.header_link{
+    display: flex;
+}
+.header_list{
+    color: #2E2F42;
+    display: flex;
+    width: Hug (261px)px;
+        height: Hug (24px)px;
+        top: 24px;
+        left: 347px;
+        gap: 40px;
+        opacity: 0px;
+}
