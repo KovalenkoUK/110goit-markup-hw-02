@@ -28,6 +28,9 @@ a{
         text-transform: uppercase;
         
 }
+.logo:focus, .logo:hover{
+    /* color: #404bbf; */
+}
 .logo_web{
     color:  #2E2F42;
     
@@ -51,7 +54,7 @@ a{
     letter-spacing: 0.02em;
     color: var(--navy-blue);
 }
-.header-list-link:hover, .header-list-link :focus{
+.header-list-link:hover, .header-list-link:focus{
     color: #404bbf
 }
 .address{
@@ -80,7 +83,7 @@ a{
         
 }
 .hero-bg{
-    
+    background-color: #2e2f42;
 }
 .hero-button{
     font-family: var(--font-family);
@@ -90,6 +93,7 @@ a{
         letter-spacing: 0.04em;
         color: var(--white);
         cursor: pointer;
+        background-color: #4D5AE5
         
         
 }
@@ -129,11 +133,12 @@ font-family: var(--font-family);
     background: var(--white);
 }
 .footer-bg{
-    
+    background-color: #2e2f42;
 }
 .footer-text{
-    
+    line-height: 1.5;
         color: var(--cloud);
+        letter-spacing: 0.02em;
 }
 :root {
     --iris: #4d5ae5;
