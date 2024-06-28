@@ -67,12 +67,10 @@ a{
         letter-spacing: 0.02em;
         color: var(--slate);
 }
-.header-mail:hover, .header-mail:focus{
+.header-contacts:hover, .header-contacts:focus{
     color: #404bbf;
 }
-.header-tel:hover, .header-tel:focus{
-    color: #404bbf;
-}
+
 .hero-logo{
     font-weight: 700;
         font-size: 56px;
