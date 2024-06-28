@@ -60,7 +60,7 @@ a{
 .address{
     font-style: normal;
 }
-.header-mail, .header-tel{
+.header-contacts{
     font-weight: 400;
         font-size: 16px;
         line-height: 150%;
